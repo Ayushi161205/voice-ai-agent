@@ -32,12 +32,11 @@ This system enables you to:
 
 ```
 ai-voice-agent/
-├── vapi-agent.json          # Vapi AI assistant configuration
-├── n8n-workflow.json        # n8n workflow for call data capture
-├── knowledge-base.docx      # Knowledge base for the AI agent
-├── calls.csv                # Sample CSV for bulk outbound calling
-└── README.md                # Project documentation
-```
+├──  README.md                            # Project documentation vapi-agent.json                      
+├── Rigel_Foundation_Vapi_KB_Full(1)      # Knowledge base for the AI agent 
+├── calls(1).csv                          # Sample CSV for bulk outbound calling    
+├── n8n_Vapi_Conversation_Capture.json    # n8n workflow for call data capture   
+└── vapi-agent.json                      # Vapi AI assistant configuration    README.md                             
 
 ---
 
